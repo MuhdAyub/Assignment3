@@ -19,3 +19,7 @@ Your installation file should be one of them. It'll most likely be an.EXE file.
 
 Step 4
 Double-click on the installation file to begin installing your game.
+
+Step5
+Enjoy the game make sure to follow these steps to be able to play the game
+
